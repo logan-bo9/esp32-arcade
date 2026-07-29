@@ -1,0 +1,19 @@
+# Projektziel
+
+Dieses Projekt entstand aus dem Interesse, wie ein einfacher Arcade-Automat
+technisch aufgebaut ist.
+
+Gleichzeitig sollte ein persönliches Projekt entstehen, das nach dem Aufbau
+nicht nur als Test dient, sondern auch tatsächlich genutzt werden kann.
+
+Im Mittelpunkt stand nicht die Entwicklung umfangreicher Spiele, sondern der
+praktische Aufbau eines Systems aus ESP32, TFT-Display, Joystick, Tastern und
+Buzzer. Die einzelnen Bauteile wurden zunächst getestet und anschließend zu
+einem funktionsfähigen Prototyp verbunden.
+
+Die Software dient vor allem dazu, das Display, die Eingaben und die gemeinsame
+Funktion der Hardware sichtbar zu machen. Sie wurde mit KI-Unterstützung
+erstellt und während der Tests an die vorhandene Hardware angepasst.
+
+Das spätere Gehäuse soll alle Komponenten fest aufnehmen und aus dem
+Prototyp ein dauerhaft nutzbares Arcade-Gerät machen.
