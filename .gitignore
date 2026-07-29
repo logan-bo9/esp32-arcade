@@ -1,0 +1,19 @@
+# Arduino- und ESP32-Build-Dateien
+*.hex
+*.elf
+*.bin
+build/
+
+# Entwicklungsumgebungen
+.vscode/
+.idea/
+
+# Temporäre Dateien
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
