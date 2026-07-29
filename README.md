@@ -32,7 +32,7 @@ für das gesamte System.
 
 ## Dokumentation
 
-- [Projektziel](esp32-arcade/dokumentation/projektziel.md)
+- [Projektziel](dokumentation/projektziel.md)
 
 Weitere Dokumentation zu Aufbau, Hardware, Softwareeinsatz und Gehäuse folgt.
 
