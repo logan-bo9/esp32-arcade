@@ -6,9 +6,11 @@
 |---|---:|
 | Joystick X | GPIO 1 |
 | Joystick Y | GPIO 2 |
-| Button Start / Bestätigen | GPIO 4 |
-| Button Pause | GPIO 5 |
-| Button Zurück | GPIO 6 |
+| Button 1: Start / Bestätigen | GPIO 4 |
+| Button 2: Pause | GPIO 5 |
+| Button 3: Zurück | GPIO 6 |
+| Button 4: Zusatzfunktion | GPIO 7 |
+| Buzzer | GPIO 14 |
 
 ## TFT-Display
 
