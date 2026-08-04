@@ -26,7 +26,7 @@ Weitere technische Informationen:
 
 - [Stückliste](hardware/stückliste.md)
 - [Pinbelegung](hardware/pinbelegung.md)
-- [Systemaufbau](docs/aufbau.md)
+- [Systemaufbau](dokumentation/aufbau.md)
 
 ## Gehäuse
 
