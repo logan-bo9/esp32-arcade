@@ -49,7 +49,7 @@ Gehäusekonstruktion.
 - [Schwierigkeitswahl](bilder/03-menuelogik/02-schwierigkeitswahl.jpg)
 - [Spielbetrieb](bilder/03-menuelogik/03-spielbetrieb.jpg)
 - [Spielende](bilder/03-menuelogik/04-verloren.jpg)
-- [Menü und Bedienung](docs/menue-und-bedienung.md)
+- [Menü und Bedienung](dokumentation/funktionen.md)
 
 ## Projektziel
 
